@@ -9,7 +9,7 @@ Cryptography is a tool used more often than realized.  For example, SSH keys use
 <br>  
 
 ## Theory  
-To understand the concepts associated with the code, checkout the [theory](./theory.md) document.  
+To understand the concepts associated with the code, checkout the [theory](./docs/theory.md) document.  
 
 <br>
 
